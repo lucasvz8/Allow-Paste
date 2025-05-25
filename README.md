@@ -1,4 +1,5 @@
 # 👑 Allow-Paste
 🔧 Stable:
 ```javascript
-javascript:fetch('https://short-link.me/-3i9').then(r=>r.text()).then(eval);
+javascript:fetch('https://raw.githubusercontent.com/lucasvz8/Allow-Paste/refs/heads/main/main.js').then(r=>r.text()).then(t=>{let s=document.createElement('script');s.textContent=t;document.documentElement.appendChild(s)}).catch(e=>alert('Erro ao carregar o script: '+e));
+
