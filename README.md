@@ -21,6 +21,6 @@
 
 5. 🎉 **Para usar:**
 
-    - Entre na plataforma Redação Paraná (ou qualquer outra página com bloqueio de colagem).
+    - Entre na plataforma Redação Paraná (na pagina da redação).
     - Clique no favorito `Allow-Paste` na barra de favoritos.
     - Pronto! Agora você poderá colar textos normalmente. ✨
