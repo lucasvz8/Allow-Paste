@@ -9,18 +9,18 @@ javascript:fetch('https://raw.githubusercontent.com/lucasvz8/Allow-Paste/refs/he
 
 2. ⭐ **Crie um favorito no seu navegador:**
 
-- No Chrome, Firefox ou Edge, pressione `Ctrl + Shift + B` para abrir a barra de favoritos.
-- Clique com o botão direito na barra de favoritos e selecione **“Adicionar página”** ou **“Novo favorito”**.
+  - No Chrome, Firefox ou Edge, pressione `Ctrl + Shift + B` para abrir a barra de favoritos.
+  - Clique com o botão direito na barra de favoritos e selecione **“Adicionar página”** ou **“Novo favorito”**.
 
 3. ✂️ **Cole o código no campo URL/endereço:**
 
-- Nomeie o favorito como `Allow-Paste`.
-- No campo URL/endereço, cole o código copiado no passo 1 (começando com `javascript:`).
+  - Nomeie o favorito como `Allow-Paste`.
+  - No campo URL/endereço, cole o código copiado no passo 1 (começando com `javascript:`).
 
 4. 💾 **Salve o favorito.**
 
 5. 🎉 **Para usar:**
 
-- Entre na plataforma Redação Paraná (na pagina da redação).
-- Clique no favorito `Allow-Paste` na barra de favoritos.
-- Pronto! Agora você poderá colar textos normalmente. ✨
+  - Entre na plataforma Redação Paraná (na pagina da redação).
+  - Clique no favorito `Allow-Paste` na barra de favoritos.
+  - Pronto! Agora você poderá colar textos normalmente. ✨
